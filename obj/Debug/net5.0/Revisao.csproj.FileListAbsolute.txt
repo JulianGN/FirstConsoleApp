@@ -1,0 +1,16 @@
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\bin\Debug\net5.0\Revisao.exe
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\bin\Debug\net5.0\Revisao.deps.json
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\bin\Debug\net5.0\Revisao.dll
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\bin\Debug\net5.0\Revisao.pdb
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\obj\Debug\net5.0\Revisao.dll
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\obj\Debug\net5.0\Revisao.pdb
+F:\OneDrive\OneDrive - sp.senac.br\Aulas\C#\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
